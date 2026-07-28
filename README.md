@@ -1,4 +1,4 @@
-# Hi, I'm Ersin Şimşek 👋
+# Hi, I'm Ersin Simsek 👋
 
 Computer Engineering student with international academic experience in Poland and Germany. I am interested in software development, database systems, IT support and practical problem-solving.
 
@@ -45,8 +45,8 @@ An Oracle APEX database application developed for the Database Systems course du
 
 - Turkish — Native
 - English — B2
-- Polish — B1
 - German — A2, currently improving
+- Polish — A2
 
 ## Contact
 
@@ -55,7 +55,7 @@ An Oracle APEX database application developed for the Database Systems course du
 
 ---
 
-## Hallo, ich bin Ersin Şimşek 👋
+## Hallo, ich bin Ersin Simsek 👋
 
 Ich studiere Computer Engineering und habe internationale Studienerfahrung in Polen sowie Programmiererfahrung in Deutschland gesammelt. Ich interessiere mich für Softwareentwicklung, Datenbanksysteme, IT-Support und praktische Problemlösung.
 
@@ -86,8 +86,8 @@ Aktuell erweitere ich mein technisches Portfolio und bereite mich auf eine **Aus
 
 - Türkisch — Muttersprache
 - Englisch — B2
-- Polnisch — B1
 - Deutsch — A2, derzeit im Aufbau
+- Polnisch — A2
 
 ### Kontakt
 
