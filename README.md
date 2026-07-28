@@ -1,8 +1,8 @@
 # Hi, I'm Ersin Simsek 👋
 
-Computer Engineering student with international academic experience in Poland and Germany. I am interested in software development, database systems, IT support and practical problem-solving.
+I am a third-year Computer Engineering student at Mersin University with international academic experience in Poland and Germany. I am interested in software development, database systems, IT support and practical problem-solving.
 
-I am currently building my technical portfolio and preparing for **Fachinformatiker Ausbildung** and junior IT opportunities in Germany.
+I am currently expanding my technical knowledge and building practical projects in web development, database programming and IT systems.
 
 ## Featured projects
 
@@ -45,7 +45,7 @@ An Oracle APEX database application developed for the Database Systems course du
 
 - Turkish — Native
 - English — B2
-- German — A2, currently improving
+- German — A2, still learning
 - Polish — A2
 
 ## Contact
@@ -57,9 +57,9 @@ An Oracle APEX database application developed for the Database Systems course du
 
 ## Hallo, ich bin Ersin Simsek 👋
 
-Ich studiere Computer Engineering und habe internationale Studienerfahrung in Polen sowie Programmiererfahrung in Deutschland gesammelt. Ich interessiere mich für Softwareentwicklung, Datenbanksysteme, IT-Support und praktische Problemlösung.
+Ich studiere im dritten Studienjahr Computer Engineering an der Mersin University und habe internationale Studienerfahrung in Polen sowie Programmiererfahrung in Deutschland gesammelt. Ich interessiere mich für Softwareentwicklung, Datenbanksysteme, IT-Support und praktische Problemlösung.
 
-Aktuell erweitere ich mein technisches Portfolio und bereite mich auf eine **Ausbildung zum Fachinformatiker** sowie auf Junior-IT-Möglichkeiten in Deutschland vor.
+Aktuell erweitere ich meine technischen Kenntnisse und entwickle praktische Projekte in den Bereichen Webentwicklung, Datenbankprogrammierung und IT-Systeme.
 
 ### Ausgewählte Projekte
 
@@ -74,7 +74,7 @@ Aktuell erweitere ich mein technisches Portfolio und bereite mich auf eine **Aus
 - Git, GitHub und Visual Studio Code
 - IT-Support, Hardware-Fehlerbehebung und Systemwartung
 
-### Ausbildung und Erfahrung
+### Studium und Erfahrung
 
 - **Computer Engineering**, Mersin University — seit 2024
 - **Erasmus+**, Rzeszów University of Technology, Polen — 2025–2026
@@ -86,7 +86,7 @@ Aktuell erweitere ich mein technisches Portfolio und bereite mich auf eine **Aus
 
 - Türkisch — Muttersprache
 - Englisch — B2
-- Deutsch — A2, derzeit im Aufbau
+- Deutsch — A2, lerne ich weiterhin
 - Polnisch — A2
 
 ### Kontakt
