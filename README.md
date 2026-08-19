@@ -1,95 +1,99 @@
-# Hi, I'm Ersin Simsek 👋
+<p align="right">
+  <strong>English</strong> · <a href="./README.de.md">Deutsch</a>
+</p>
 
-I am a third-year Computer Engineering student at Mersin University with international academic experience in Poland and Germany. I am interested in software development, database systems, IT support and practical problem-solving.
+Hi, I'm Ersin Şimşek 👋
 
-I am currently expanding my technical knowledge and building practical projects in web development, database programming and IT systems.
+I am a Computer Engineering student at Mersin University with international academic experience in Poland and Germany. My main interests are software development, database systems, IT support and building practical solutions to real-world problems.
 
-## Featured projects
+Alongside my studies, I develop full-stack and database projects and continuously improve my skills in Java, Spring Boot, React and software testing.
 
-### [MovieTracker](https://github.com/ersin-simsek/movie-tracker)
+Featured projects
 
-A responsive film discovery and personal watchlist web application developed for the Web Applications Programming course during my Erasmus+ studies.
+IT Asset & Maintenance Management System
 
-- HTML, CSS and JavaScript
-- Search, filtering and sorting
-- Watchlists, ratings and personal statistics
-- Local profiles and browser storage
-- [Live application](https://ersin-simsek.github.io/movie-tracker/)
+A full-stack application inspired by my hands-on experience in the IT Department of Mersin University. It supports the complete lifecycle of IT assets and maintenance operations.
 
-### [Student Course Management System](https://github.com/ersin-simsek/student-course-management-system)
+Device inventory, status and maintenance history management
+
+Service intake, handover, repair, return and reopening workflows
+
+Replacement-parts tracking and cost calculation
+
+Java 17, Spring Boot, React and PostgreSQL
+
+REST API, Spring Data JPA and input validation
+
+24 automated backend and frontend tests
+
+Swagger/OpenAPI documentation and GitHub Actions CI
+
+Student Course Management System
 
 An Oracle APEX database application developed for the Database Systems course during my Erasmus+ studies.
 
-- Oracle SQL, PL/SQL and Oracle APEX
-- Relational database design and CRUD operations
-- Views, triggers, packages and audit logging
-- Interactive reports, dashboard cards and charts
+Oracle SQL, PL/SQL and Oracle APEX
 
-## Technical skills
+Relational database design and CRUD operations
 
-- **Programming:** C, JavaScript, SQL, PL/SQL
-- **Web:** HTML5, CSS3, responsive web design
-- **Database:** Oracle Database, Oracle APEX, relational database design
-- **IT:** Hardware troubleshooting, technical support, system maintenance
-- **Tools:** Git, GitHub, Visual Studio Code
+Views, triggers, packages and audit logging
 
-## Education and experience
+Interactive reports, dashboard cards and charts
 
-- **Computer Engineering**, Mersin University — 2024–Present
-- **Erasmus+ Computer Engineering**, Rzeszów University of Technology, Poland — 2025–2026
-- **42 Berlin Piscine**, Germany — intensive C programming and problem-solving, February 2026
-- **IT Support Assistant**, Mersin University IT Department — March–June 2025
-- Previous studies in **Electrical and Electronics Engineering**, Bursa Technical University
+MovieTracker
 
-## Languages
+A responsive film discovery and personal watchlist application developed for the Web Applications Programming course during my Erasmus+ studies.
 
-- Turkish — Native
-- English — B2
-- German — A2, still learning
-- Polish — A2
+HTML, CSS and JavaScript
 
-## Contact
+Search, filtering and sorting
 
-- [LinkedIn](https://www.linkedin.com/in/ersinsimsek1)
-- [Email](mailto:ersin.simsek.cv@gmail.com)
+Watchlists, ratings and personal statistics
 
----
+Local profiles and browser storage
 
-## Hallo, ich bin Ersin Simsek 👋
+Live application
 
-Ich studiere im dritten Studienjahr Computer Engineering an der Mersin University und habe internationale Studienerfahrung in Polen sowie Programmiererfahrung in Deutschland gesammelt. Ich interessiere mich für Softwareentwicklung, Datenbanksysteme, IT-Support und praktische Problemlösung.
+Technical skills
 
-Aktuell erweitere ich meine technischen Kenntnisse und entwickle praktische Projekte in den Bereichen Webentwicklung, Datenbankprogrammierung und IT-Systeme.
+Backend: Java, Spring Boot, REST APIs, Spring Data JPA, Maven
 
-### Ausgewählte Projekte
+Frontend: React, JavaScript, HTML5, CSS3, responsive web design
 
-- **[MovieTracker](https://github.com/ersin-simsek/movie-tracker):** Responsive Webanwendung mit HTML, CSS und JavaScript, entwickelt im Erasmus+-Kurs Web Applications Programming. [Live-Demo](https://ersin-simsek.github.io/movie-tracker/)
-- **[Student Course Management System](https://github.com/ersin-simsek/student-course-management-system):** Datenbankanwendung mit Oracle SQL, PL/SQL und Oracle APEX, entwickelt im Erasmus+-Kurs Database Systems.
+Databases: PostgreSQL, Oracle Database, SQL, PL/SQL, Oracle APEX
 
-### Technische Kenntnisse
+Testing and documentation: JUnit, Mockito, Vitest, Testing Library, Swagger/OpenAPI
 
-- C, JavaScript, SQL und PL/SQL
-- HTML5, CSS3 und Responsive Webdesign
-- Oracle Database und Oracle APEX
-- Git, GitHub und Visual Studio Code
-- IT-Support, Hardware-Fehlerbehebung und Systemwartung
+Tools: Git, GitHub, GitHub Actions, IntelliJ IDEA, Visual Studio Code
 
-### Studium und Erfahrung
+IT support: Hardware troubleshooting, technical support and system maintenance
 
-- **Computer Engineering**, Mersin University — seit 2024
-- **Erasmus+**, Rzeszów University of Technology, Polen — 2025–2026
-- **42 Berlin Piscine** — intensives C-Programmieren und Problemlösung, Februar 2026
-- **IT Support Assistant**, IT-Abteilung der Mersin University — März–Juni 2025
-- Vorheriges Studium der **Elektrotechnik und Elektronik**, Bursa Technical University
+Additional programming: C
 
-### Sprachen
+Education and experience
 
-- Türkisch — Muttersprache
-- Englisch — B2
-- Deutsch — A2, lerne ich weiterhin
-- Polnisch — A2
+Computer Engineering, Mersin University — 2024–Present
 
-### Kontakt
+Erasmus+ Computer Engineering, Rzeszów University of Technology, Poland — 2025–2026
 
-- [LinkedIn](https://www.linkedin.com/in/ersinsimsek1)
-- [E-Mail](mailto:ersin.simsek.cv@gmail.com)
+42 Berlin Piscine, Germany — intensive C programming and problem-solving, February–March 2026
+
+IT Support Assistant, Mersin University IT Department — March–June 2025
+
+Previous studies in Electrical and Electronics Engineering, Bursa Technical University
+
+Languages
+
+Turkish — Native
+
+English — B2
+
+German — A2, currently preparing for B1
+
+Polish — A2
+
+Contact
+
+LinkedIn
+
+Email
